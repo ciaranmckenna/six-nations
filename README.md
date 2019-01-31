@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Ensure you have Java installed on your machine. To check, run the following on the command line:
 
-`java --version`8
+`java -version`
 
 
 If you do not have Java installed, you should get a prompt to do so. Once installed,
